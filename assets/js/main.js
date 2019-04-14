@@ -53,7 +53,7 @@ jQuery(document).ready(function ($) {
 
 
 
-// slick slider active Acceuil Page Tow
+// slick slider active Accueil Page Tow
     $(".hello_slid").slick({
         dots: true,
         infinite: false,
