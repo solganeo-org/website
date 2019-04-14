@@ -9,7 +9,7 @@ Author URI: http://xpeedstudio.com
  01.  PREDIFINEED (FROM 1 TO 780 )
  02.  PRELOADER - LINE NO 786
  03.  NAVIGATION - LINE NO 930
- 04.  HOME - LINE NO 1150
+ 04.  Acceuil - LINE NO 1150
  05.  THU FEATURE - LINE NO 1280
  06.  THU FLIDE - LINE NO 1355
  07.  THU SERVICE - LINE NO 1385
@@ -866,30 +866,30 @@ Nav Menu style
 
 
 /*
-Home Section style
+Acceuil Section style
 ==================*/
 
-.home{
-    background: url(../images/home-bg.jpg) no-repeat scroll  center center;
+.Acceuil{
+    background: url(../images/Acceuil-bg.jpg) no-repeat scroll  center center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
     padding-bottom: 190px;
     width:100%;
 }
-.main_home .home_text h2{
+.main_Acceuil .Acceuil_text h2{
     font-size:36px;
     font-weight: 400;
 }
-.main_home .home_text h1{
+.main_Acceuil .Acceuil_text h1{
     font-size:48px;
     font-weight: 700;
 }
-.main_home .home_text h3{
+.main_Acceuil .Acceuil_text h3{
     font-size:24px;
     font-weight: 400;
 }
-.main_home .slick-dots li button::before {
+.main_Acceuil .slick-dots li button::before {
     font-family: slick;
     font-size: 8px;
     line-height: 7px;
@@ -907,21 +907,21 @@ Home Section style
     -webkit-font-smoothing: antialiased;
     background-color: #fff;
 }
-.main_home .slick-dots li {
+.main_Acceuil .slick-dots li {
     width: 10px;
     height: 10px;
     margin: 0 5px;
 }
-.main_home .slick-dots li.slick-active button:before{
+.main_Acceuil .slick-dots li.slick-active button:before{
     opacity: 1;
     background-color: #00a885;
 }
-.main_home .slick-dots{
+.main_Acceuil .slick-dots{
     bottom: -200px;
 }
 
 .work_container .slick-arrow ,
-.main_home .slick-arrow{
+.main_Acceuil .slick-arrow{
     font-size:3rem;
     color:#fff;
     top:30%;
@@ -929,16 +929,16 @@ Home Section style
     z-index: 90;
     cursor: pointer;  
 }
-.main_home .nextprevleft{
+.main_Acceuil .nextprevleft{
     left:-3%;
 }
-.main_home .nextprevright{
+.main_Acceuil .nextprevright{
     right:-3%;
 }
-.home_btns{
+.Acceuil_btns{
     margin-left:-10px;
 }
-.home_btns a{
+.Acceuil_btns a{
     margin-left:10px;
 }
 
