@@ -87,13 +87,13 @@ Author URI: http://www.xpeedstudio.com
     }
 
 
-    .main_home .home_text h2{
+    .main_Accueil .Accueil_text h2{
         font-size:24px;
     }
-    .main_home .home_text h1{
+    .main_Accueil .Accueil_text h1{
         font-size:32px;
     }
-    .main_home .home_text h3{
+    .main_Accueil .Accueil_text h3{
         font-size:18px;
     }
     .main_product .carousel-control{
@@ -110,10 +110,10 @@ Author URI: http://www.xpeedstudio.com
     html {
         font-size: 85%;
     }
-    .main_home .home_text h1{
+    .main_Accueil .Accueil_text h1{
         font-size:28px;
     }
-    .main_home .home_text h3{
+    .main_Accueil .Accueil_text h3{
         font-size:17px;
     }
 
